@@ -1,0 +1,17 @@
+[
+		
+    {
+	"prompts" : ["a name", "a noun", "an adverb", "an adjective"],
+	"story" : "Once upon a time someone called %s ate a %s flavoured sandwich which made her feel all %s inside. It was a %s day."
+    }
+,
+    {
+    "story" : "There once was a %s called %s who searched far and wide for the mythical %s noun of %s.",
+    "prompts" : ["a noun", "a name", "an adjective", "another name"]
+    }
+,
+    {
+    "story" : "different.There once was a %s called %s who searched far and wide for the mythical %s noun of %s.",
+    "prompts" : ["a noun", "a name", "an adjective", "another name"]
+    }
+]
